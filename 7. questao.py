@@ -23,4 +23,14 @@ celular
 qntd = float(input("Digite a quantidade: ( 2 ou 3)"))
 
 if qntd <= 5:
-    valor_total = qntd * preco_unt
+    desconto = valor_total * 0.02
+elif qntd > 5 and qntd <= 10:
+    desconto = valor_total * 0.03
+elif qntd > 10:
+    desconto = valor_total * 0.05
+
+valor_descontado = valor_total - desconto
+
+print(f"O valor total da sua compra foi de: R${valor_total: .2f} sem desconto")
+print("")
+print(f"Esse é o valor total com desconto: R${valor_descontado: .2f}")
