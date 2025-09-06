@@ -1,5 +1,5 @@
 import os 
-os.system
+os.system ("cls")
 
 #Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 
