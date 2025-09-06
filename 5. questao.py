@@ -19,6 +19,10 @@ subtracao = (A - B)
 divisao = (A / B)
 multiplicacao = (A * B)
 
+if B != 0:
+    divisao = (A / B)
+else:
+    divisao = 0
 
 
 match operacao:
