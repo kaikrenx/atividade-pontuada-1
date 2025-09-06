@@ -24,7 +24,6 @@ if B != 0:
 else:
     divisao = 0
 
-
 match operacao:
     case "+":
         print(f"O resultado da soma: {soma}")
@@ -34,5 +33,4 @@ match operacao:
         print(f"O resultado da sua divisão: {divisao}")
     case "*":
         print(f"O resultado da sua multiplicação: {multiplicacao}")
-
 

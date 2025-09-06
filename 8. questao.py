@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 os.system("")
 
@@ -38,4 +39,3 @@ match cor:
 
     case _:
         print("Cor inválida! Digite uma das opções listadas.")
-

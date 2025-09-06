@@ -73,9 +73,3 @@ else:
 
             case _:
                 print("Opção inválida")
-
-
-
-
-
-
