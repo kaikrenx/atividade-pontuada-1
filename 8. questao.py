@@ -1,5 +1,5 @@
 import os
-os.system("")
+os.system("cls")
 
 #Em uma loja de CD's existem apenas quatro tipos de preços que estão associados a cores.
 #  Assim, os CD's que ficam na loja não são marcados por preços e sim por cores.
