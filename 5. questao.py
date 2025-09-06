@@ -1,5 +1,5 @@
 import os
-os.system("")
+os.system("cls")
 
 
 # faça um programa que leia um código de operação (+, -, *, ou /) e também dois valores inteiros A e B. O programa deve calcular o resultado da operação escolhida aplicada a A e B.
