@@ -1,5 +1,5 @@
 import os
-os.system
+os.system("cls")
 
 #Uma financeira usa o seguinte critério para conceder empréstimos: o valor total do empréstimo deve ser até dez vezes
 #  o valor da renda mensal do solicitante, e o valor da prestação deve ser no máximo 30% da renda mensal do solicitante.
